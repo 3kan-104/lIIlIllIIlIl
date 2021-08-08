@@ -7,22 +7,23 @@ By Using this Krunker CSS, you have agreed to NOT share this CSS with anyone who
 failing to do so will result in the immediate ban and removal from the clan.
 */
 
-/*Customization*/
+/*Customization Settings/CSS設定*/
 
 :root {
     --accent: #c50020;
     --secondary: #000;
+    --shadow: rgba(0,0,0,.125);
     --accent-text: #fff;
     --secondary-text: #fff;
 
     --menu-bg: #fff;
     --menu-text: rgba(0,0,0,.25);
 
-    --shadow: rgba(0,0,0,.125);
-
     --hud-text: #fff;
     --hud-shadow: rgba(50,50,50,.25);
 }
+
+/*Fonts/フォント*/
 
 @font-face {
     font-family: gamefont;
