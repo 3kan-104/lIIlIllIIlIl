@@ -790,13 +790,6 @@ input:checked+.sliderSml {
 #policeButton {
     margin: 0;
     position: fixed;
-    top: 20px;
-    left: 20px;
-}
-
-#policeButton {
-    margin: 0;
-    position: fixed;
     bottom: 20px;
     top: unset;
     right: 332px;
@@ -821,6 +814,7 @@ input:checked+.sliderSml {
     border-radius: 50%;
     display: block;
 }
+
 #policeButton img {
     display: none;
 }
