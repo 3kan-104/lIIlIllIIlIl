@@ -1,3 +1,8 @@
+@font-face {
+    font-family: logotype;
+    src: url(https://dl.dropboxusercontent.com/s/2ovgbiuqibc3oe4/Play%20Pretend.otf?dl=0);
+}
+
 * {
     font-family: gamefont, JP;
 }
